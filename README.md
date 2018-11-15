@@ -1,4 +1,4 @@
 # hello-world
 =============
-Just another repository
+-Just another repository
 +Testing editing of README.md
